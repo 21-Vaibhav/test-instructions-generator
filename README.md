@@ -36,30 +36,41 @@ Google Gemini API Key
 
 Installation: Clone the Repository
 
+```
 git clone https://github.com/21-Vaibhav/test-instructions-generator.git
+```
+
 Backend Setup Navigate to the backend directory:
-
+```bash
 cd backend
+```
+
 Install dependencies:
-
+```bash
 npm install
+```
 Create a .env file and add your Google Cloud Vision and Gemini API keys:
-
+```
 env
 GOOGLE_CLOUD_VISION_API_KEY=your_google_cloud_vision_api_key
 GOOGLE_GEMINI_API_KEY=your_google_gemini_api_key
+```
 Start the backend server:
-
+```bash
 npm start
+```
 Frontend Setup Navigate to the frontend directory:
-
+```bash
 cd ../frontend
+```
 Install dependencies:
-
+```bash
 npm install
+```
 Start the frontend server:
-
+```bash
 npm start
+```
 Access the Application
 
 Open your web browser and go to http://localhost:3000 to use the Test Instructions Generator.
