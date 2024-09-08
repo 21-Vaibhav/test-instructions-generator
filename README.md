@@ -1,3 +1,6 @@
+// Please note that the repository was revamped on 08/09/2024 16:21 due to a submodule repo present in one of the directory, the original commits for the original repo was at on 08/09/2024
+at around 2:09 am
+
 Test Instructions Generator A web application that leverages Google Cloud Vision and Gemini APIs to generate test cases from images and textual context.
 
 Tech Stack Frontend: React
